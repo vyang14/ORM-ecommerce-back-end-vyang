@@ -16,7 +16,7 @@ By Vincent Yang
 
 ## Description
 
-This project builds a back-end for an eCommerce site through the use of ExpressJS API routes to use Sequelize to create, store, modify, and delete data from a mySQL database.
+This project builds a back-end for an eCommerce site through the use of ExpressJS API routes to use Sequelize to create, store, modify, and delete category, product, and tag data from a mySQL database.
   
 ## Installation
 
@@ -36,7 +36,8 @@ None
 
 ## Walkthrough Video
 
-[Walkthrough Video](./Assets/walkthrough.mp4)
+[Walkthrough Video](https://drive.google.com/file/d/12NxXeSHxKKdIUhE1goYykQGC9SNRYvmN/view?usp=sharing)
+[YouTube Mirror](https://youtu.be/GxGjfc6w8g0)
 
 ## Questions
 
