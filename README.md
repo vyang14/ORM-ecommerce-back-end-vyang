@@ -24,11 +24,11 @@ Navigate to this directory in your terminal, run command 'npm install'. Then, us
 
 ## Usage
 
-Add your mySQL password and user into the .env file (if needed), then run command 'npm run start' to start the server.
+Add your mySQL password and user into an .env file (if needed), then run command 'npm run start' to start the server.
 
 ## Contribution
 
-Add your mySQL password and user into the .env file (if needed), then run command 'npm run start' to start the server.
+None
 
 ## Test
 
